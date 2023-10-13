@@ -5,5 +5,5 @@ Create a Pull Request (PR) to add your Github username and full name into this f
 
 ## Users:
 Mel Nguyen (meln-ds)
-Duc Le
+Duc Le (ducattsc)
 
